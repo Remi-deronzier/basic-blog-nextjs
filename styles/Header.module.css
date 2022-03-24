@@ -1,0 +1,8 @@
+.portrait_wrapper {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: solid 2px var(--main-blue);
+  margin-bottom: 10px;
+}
