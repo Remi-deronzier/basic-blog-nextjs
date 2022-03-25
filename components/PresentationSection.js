@@ -4,8 +4,8 @@ export default function PresentationSection() {
   return (
     <section className={styles.presentation}>
       <p>
-        Hello, I’m Rémi. I’m an aspiring software engineer and a triathlete. You
-        can contact me on{" "}
+        Hello, I’m Rémi. I’m an aspiring software engineer and a passionate
+        triathlete. You can contact me on{" "}
         <a
           href="https://www.linkedin.com/in/remi-deronzier/"
           target="_blank"
